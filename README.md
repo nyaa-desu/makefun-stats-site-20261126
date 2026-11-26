@@ -1,8 +1,8 @@
 # StatAtlas — The United States in numbers
 
-[![make.fun entry](https://img.shields.io/badge/make.fun-best%20national%20statistics%20site-0e7c7b)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
-[![license: MIT](https://img.shields.io/badge/license-MIT-1b2a4a)](LICENSE)
-[![offline](https://img.shields.io/badge/network-zero%20requests-e8a317)](app/index.html)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/nyaa-desu/makefun-stats-site-20261126/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/nyaa-desu/makefun-stats-site-20261126/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 A national statistics site for the United States, built for the
 [make.fun](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
